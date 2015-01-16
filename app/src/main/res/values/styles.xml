@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+       <item name="actionBarStyle">@style/action_bar</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+
+    <style name="action_bar">
+        <item name="colorPrimary">@android:color/white</item>
+        <item name="colorAccent">@android:color/black</item>
+    </style>
+
+</resources>
